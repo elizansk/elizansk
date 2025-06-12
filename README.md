@@ -8,7 +8,7 @@
 
 ## 🛠️ Навыки и технологии
 
-- Языки: JavaScript, Java,Python
+- Языки: JavaScript, Java,Python(https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - Web: HTML, CSS, React, Node.js
 - Базы данных: MySQL
 - Инструменты: Git, VS Code, Figma
